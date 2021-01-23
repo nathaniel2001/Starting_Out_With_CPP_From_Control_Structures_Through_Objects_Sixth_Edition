@@ -1,0 +1,126 @@
+1:
+	1, 2, 3
+
+2:
+	float temp, weight, age;
+
+3:
+	int months, days, years;
+	months = 2;
+	years = 3;
+
+4:
+	#include <iostream>
+	using namespace std;
+	int main() {
+		double a, b, c;
+		b=a+2;
+		a=b*4;
+		b=a/3.14;
+		a=b-8;
+		a=27;
+		c='K';
+		c=66;
+		cout << (char)c << endl;
+		return 0;
+	}
+
+5:
+	Multi-line comments
+
+6:
+	Single-line comments
+
+7:
+	#include <iostream>
+	using namespace std;
+	int main() {
+		cout << "Two mandolins like creatures in the\n\n";
+		cout << "dark\n\n";
+		cout << "Creating the agony of ecstasy.\n\n";
+		cout << "		- George Barker\n";
+		return 0;
+	}
+
+8:
+	a) 0, and 100
+	b) 8, newline followed by 2
+	c) "I am the incredible computing" (newline) "machine" (newline) 
+	   "and I will" (newline) "amaze" (newline) "you."
+	d) "Be careful" (newline) "This might/n be a trick question" (newline)
+	e) 23 followed by 1
+
+9:
+	C
+10:
+	C
+11:
+	C
+12:
+	A
+13:
+	D
+14: 
+	B
+15:
+	B, C
+16:
+	B, D
+17:
+	a) 12
+	b) 4
+	c) 2
+	d) 6
+	e) 1
+
+18: 
+	a) 3.287e6
+	b) -9.7865e14
+	c) 7.65491e-3
+	d) -5.871023e0
+
+19:
+	A
+
+20:
+	A
+
+21: T
+22: F
+23: F
+24: T
+
+25. 
+	#include <stdio.h>
+	int main() {
+		int speed = 20;
+		int time = 10;
+		int distance = time*speed;
+		printf("%i\n", distance);
+		return 0;
+	}
+
+26. 
+	#include <stdio.h>
+	int main() {
+		double force = 172.5;
+		double area = 27.5;
+		double pressure = area/force;
+		printf("%i\n", pressure);
+		return 0;
+	}
+
+27.
+	Corrected:
+		#include <iostream>
+		using namespace std;
+		int main() {
+			int a, b, c;
+			a = 3;
+			b = 4;
+			c = a+b;
+			cout << "The value of c is" << c;
+			return 0;
+		}
+
+

@@ -1,0 +1,88 @@
+Short Answer:
+
+Q 1. Both main memory and secondary storage are types of memory. Describe the differences between the two.
+	A: Main memory is RAM, secondary storage is just your storage. I don't think I need to describe them.
+
+Q 2. What is the difference between operating system software and application software?
+	A: Operating systems are just the software the computer uses for you to use it
+	   and application software is software you can use ontop of the operating system
+
+Q 3. Indicate all the categories that the following operating systems belong to:
+	System A: This system allows multiple users to run multiple programs simultaneously.
+	System B: Only one user may access the system at a time, but multiple programs can be run simultaneously.
+	System C: Only one user may access the system at a time, and only one program can be run on the 
+	          system at a time.
+
+	A: System A is a multi user and task system, system B is a single user but multi task system
+	   system C is a single user and task system. 
+
+Q 4. Why must programs written in a high-level language be translated into machine language before they can run?
+	A: Because it can't execute source code
+
+Q 5. Why is it easier to write a program in a high-level language than in machine language?
+	A: Easier for people to read
+
+Q 6. Explain the difference ebtween an object file and an exectuable file
+	A: Object files contain machine code output, you can't run it unlike an executable file.
+
+Q 7. What is the difference between a syntax error and a logical error? 
+	A: Syntax errors won't let you compile while logical errors are errors with the code that makes it unusable
+
+Fill-in-the-Blank
+
+08. Computers can do many different jobs because they can be (programmed)
+09. The job of the (CPU) is to fetch instructions, carry out the operations comanded by the instructions, and produce
+    some outcome or resultant information.
+10. Internally, the CPU consists of the (ALU) and the (control unit)
+11. A (hard drive) is an example of a secondary storage device. 
+12. The two general categories of software are (operating systems) and (application software)
+13. A program is a set of (instructions)
+14. Since computers can't be programmed in natural human language, algorithms must be written in a 
+    (programming language)
+15. (Machine language) is the only language computers really process
+16. (High-level) languages are close to the level of humans in terms of readability
+17. (Low-level) languages are close to the level of the computer
+18. A programs ability to run on serveral types of computer systems is called (portability)
+19. Words that have special meaning in a programming language are called (key-words)
+20. Words or names defined by the programmer are called (programmer-defined symbols)
+21. (Operators) are characters or symbols that perform operations on one or more operands.
+22. (Punctuation) characters or symbols mark the beginning or ending of programming statements, or seperate
+    items in a list.
+23. The rules that must be followed when constructing a program are called (syntax)
+24. A (variable) is a named storage location
+25. A variable must be (defined) before it can be used in a program
+26. The three primary activities of a program are (input, processing, and output)
+27. (Input) is information a program gathers from the outside world
+28. (Output) is information a program sends to the outside world
+29. A (hierarchy-chart) is a diagram that graphically illustrates the structure of a program.
+
+Skipping 30-32... 
+
+Predict The Result
+
+33. The variable x starts with the value 0
+    The variable y starts with the value 5
+    Add 1 to x
+    Add 1 to y
+    Add x and y and store the result in y
+    Display the value in y on the screen
+    -------- Y = 7
+
+34. The variable j starts with the value 10
+    The variable k starts with the value 2
+    The variable l starts with the value 4
+    Store the value of j times k in j
+    Store the value of k times l in l
+    Add j and l and store the result in k
+    Display the value in k on the screen
+    -------- K = 28
+
+35. The variable a starts with the value 1
+    The variable b starts with the value 10
+    The variable c starts with the value 100
+    The variable x starts with the value 0
+    Store the value of c time 3 in x
+    Add the value of b times 6 to the value already in x
+    Add the value of a time 5 to the value already in x
+    Display the value in x on the screen
+    -------- X = 365

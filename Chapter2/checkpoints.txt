@@ -1,0 +1,112 @@
+2.1: 
+	#include <iostream>
+	using namespace std
+	int main() {
+		cout << "In 1492 Columbus sailed the ocean blue.";
+		return 0;
+	}
+
+2.2: 
+	#include <iostream>
+	using namespace std;
+	int main() {
+		cout << "Success\n";
+		cout << "Success";
+		cout << "Success\n\n";
+		cout << "Success\n";
+		return 0;
+	}
+
+2.3: 
+	This program will print:
+		The works of Wolfgang
+		include the following
+		The Turkish March
+		and Symphony No. 40 in G minor.
+
+2.4:
+	#include <stdio.h>
+	int main() {
+		printf("Nathaniel\n0 Street Street\nCity,State,ZIP\nPhone-Number\n");
+		return 0;
+	}
+
+2.5:
+	Variables: little, big
+	Constants: 2, 2000, "The little number is", "The big number is"
+
+2.6:
+	"The value is number"
+
+2.7:
+	"99bottles" begins with a number, "r&d" contains an illegal character
+
+2.8:
+	No, variables are case-sensative.
+
+2.9: 
+	1. short
+	2. int
+	3. 20L
+
+2.10:
+	They use the same amount.
+
+2.11:
+	C Ascii code: 067
+	F Ascii code: 070
+	W Ascii code: 087
+
+2.12:
+	'B'
+
+2.13:
+	'Q' uses one btye
+	'Q" uses two bytes
+	"Sales" uses six bytes
+	'\n' uses one byte
+
+2.14: 
+	#include <iostream>
+	using namespace std;
+	int main() {
+		char first, middle, last;
+		first = 'N';
+		middle = 'X';
+		last = 'X';
+		cout << first << middle << last << endl;
+		return 0;
+	}
+
+2.15:
+	The quotation marks around "Z"
+
+2.16: 
+	No
+
+2.17:
+	6.31E17
+
+2.18:
+	#include <iostream>
+	using namespace std;
+	int main() { 
+		int age;
+		float weight;
+		age = 19;
+		weight = 145;
+		cout << "My age is " << age << " and my weight is " << weight << " pounds\n";
+		return 0;
+	}
+
+2.19: 
+	No, you can't set numbers as variables, but you can set variables as numbers
+
+2.20: 
+	int x = 7, y = 16, z = 28;
+
+2.21:
+	The variable isn't declared and can not be defined.
+
+2.22:
+	Integer division, stores the number 23
